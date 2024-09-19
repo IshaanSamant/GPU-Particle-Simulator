@@ -1,6 +1,6 @@
 # GPU Particle Simulator
 
-This is a praticle simulator createed to simulate particle collisions with C++ and NVIDIA GPUs!
+This is a  novel praticle simulator createed to simulate particle collisions with C++ and NVIDIA GPUs!
 
 ## Getting Started
 
